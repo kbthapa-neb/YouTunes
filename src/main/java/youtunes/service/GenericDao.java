@@ -1,4 +1,4 @@
-package youtune.service;
+package youtunes.service;
 
 import java.util.List;
 

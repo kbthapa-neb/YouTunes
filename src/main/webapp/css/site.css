@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.width-35 
+{
+	width: 35%;
+}
+
+.icon-center 
+{
+	text-align: center;
+}
+
+.text-center 
+{
+	text-align: center;
+}
+
+.padding-top-50 
+{
+	padding-top: 50px;
+}
